@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HeroMovies/static/css/main.334bdeb1.css",
+    "main.js": "/HeroMovies/static/js/main.6c9ec333.js",
+    "index.html": "/HeroMovies/index.html",
+    "static/media/search.svg": "/HeroMovies/static/media/search.8ff5426bc87a3f731164f42e41b7144b.svg",
+    "main.334bdeb1.css.map": "/HeroMovies/static/css/main.334bdeb1.css.map",
+    "main.6c9ec333.js.map": "/HeroMovies/static/js/main.6c9ec333.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.6c9ec333.js"
+  ]
+}
